@@ -2,7 +2,7 @@ export const dynamic = 'force-dynamic'
 
 export default function Index() {
   return (
-    <div className="min-h-screen flex items-center justify-center">
+    <div className="min-h-screen pt-16 flex items-center justify-center">
       <div className="text-center max-w-2xl px-4">
         <h1 className="text-4xl font-bold mb-4">Welcome to Your App</h1>
         <p className="text-xl mb-6 text-gray-600">
